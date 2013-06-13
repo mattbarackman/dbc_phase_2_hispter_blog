@@ -19,7 +19,7 @@ header a {
 
 header li {
   display: inline;
-  margin-right: 5%; 
+  margin-right: 10%; 
 }
 
 header li a:hover {
@@ -28,6 +28,7 @@ header li a:hover {
 
 header ul {
   padding: 0;
+  width: 240px;
 }
 
 nav {
@@ -50,7 +51,7 @@ nav {
 }
 
 .marketing {
-  padding: 10px;
+  padding: 20px;
   margin: 1em 0;
   background-color: #333;
   color: white;
